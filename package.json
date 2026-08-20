@@ -1,24 +1,24 @@
-{
-  "name": "videxa-ai-app",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "postinstall": "prisma generate"
-  },
-  "dependencies": {
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest",
-    "@prisma/client": "latest"
-  },
-  "devDependencies": {
-    "prisma": "latest",
-    "typescript": "latest",
-    "@types/node": "latest",
-    "@types/react": "latest",
-    "@types/react-dom": "latest"
-  }
-}
+    {
+      "name": "videxa-ai-app",
+      "version": "0.1.0",
+    "private": true,
+      "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "postinstall": "prisma generate"
+      },
+      "dependencies": {
+        "next": "latest",
+        "react": "latest",
+        "react-dom": "latest",
+        "@prisma/client": "latest"
+      },
+      "devDependencies": {
+        "prisma": "latest",
+        "typescript": "latest",
+        "@types/node": "latest",
+        "@types/react": "latest",
+        "@types/react-dom": "latest"
+      }
+    }
